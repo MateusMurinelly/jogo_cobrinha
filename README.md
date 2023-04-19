@@ -16,7 +16,7 @@
     </ul>
     <p>Para executar o jogo, certifique-se de ter a biblioteca Pygame instalada em seu ambiente Python. Em seguida, basta executar o arquivo <code>cobra.py</code> para começar a jogar.</p>
     <h2>Contribuindo</h2>
-    <p>Se você gostou indique para um amigo, se não gostou😞  sinta-se à vontade para abrir um pull request. Sua contribuição é bem-vinda!</p>
+    <p>Se você gostou indique para um amigo, se não gostou😞 indique para um inimigo e também sinta-se à vontade para abrir um pull request. Sua contribuição é bem-vinda!</p>
     <h2></h2>
     <p></p>
     <img src="https://s2.glbimg.com/3AGVE_GlHoK_YOEYDC0pJzdDTPA=/0x0:299x299/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/w/T/CejSt1SIy2IjArrm5mLA/2013-04-14-datccfh.gif">
