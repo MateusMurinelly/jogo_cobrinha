@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>Jogo da Cobra com Pygame</title>
+    
   </head>
   <body>
     <h1>Jogo da Cobra com Pygame</h1>
